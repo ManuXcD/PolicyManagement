@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7871808F-35D7-42EC-B603-7B0E7200AE12}|..\\PolicyManagement.Core\\PolicyManagement.Core.csproj|c:\\users\\7492\\source\\repos\\project_policymanagement\\policymanagement.core\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7871808F-35D7-42EC-B603-7B0E7200AE12}|..\\PolicyManagement.Core\\PolicyManagement.Core.csproj|c:\\users\\7492\\source\\repos\\project_policymanagement\\policymanagement.core\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F96555-24B7-4718-AE6B-D907323252BE}|..\\PolicyManagement.Services\\PolicyManagement.Services.csproj|c:\\users\\7492\\source\\repos\\project_policymanagement\\policymanagement.services\\implementations\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Core\\Claim.cs",
+              "RelativeDocumentMoniker": "..\\PolicyManagement.Core\\Claim.cs",
+              "ToolTip": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Core\\Claim.cs",
+              "RelativeToolTip": "..\\PolicyManagement.Core\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:41:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Core\\Policy.cs",
+              "RelativeDocumentMoniker": "..\\PolicyManagement.Core\\Policy.cs",
+              "ToolTip": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Core\\Policy.cs",
+              "RelativeToolTip": "..\\PolicyManagement.Core\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:41:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Services\\Implementations\\PolicyService.cs",
+              "RelativeDocumentMoniker": "..\\PolicyManagement.Services\\Implementations\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\7492\\source\\repos\\Project_PolicyManagement\\PolicyManagement.Services\\Implementations\\PolicyService.cs",
+              "RelativeToolTip": "..\\PolicyManagement.Services\\Implementations\\PolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:40:54.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
